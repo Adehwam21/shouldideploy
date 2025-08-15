@@ -12,7 +12,8 @@ export const REASONS_TO_DEPLOY = [
   'Make me proud',
   'Break a leg!',
   'This Is the Way',
-  'Strike First, Strike Hard, No Mercy!'
+  'Strike First, Strike Hard, No Mercy!',
+  "Go Spidey, Go! 🤟"
 ]
 
 export const REASONS_TO_NOT_DEPLOY = [
@@ -31,7 +32,8 @@ export const REASONS_TO_NOT_DEPLOY = [
   'How could you? 🥺',
   'Some people just want to watch the world burn 🔥',
   "You like fire don't you?",
-  'The bugs are just waiting for you'
+  'The bugs are just waiting for you',
+  "Don't say I didn't warn you 🤐"
 ]
 
 export const REASONS_FOR_THURSDAY_AFTERNOON = [
@@ -43,7 +45,8 @@ export const REASONS_FOR_THURSDAY_AFTERNOON = [
   "I wouldn't recommend it",
   'Not today',
   'Nope',
-  'No. Breathe and count to 10, start again'
+  'No. Breathe and count to 10, start again',
+  'Friday is a weekend too 😭'
 ]
 
 export const REASONS_FOR_FRIDAY_AFTERNOON = [
@@ -72,7 +75,9 @@ export const REASONS_FOR_FRIDAY_13TH = [
   'Did you look at the calendar today?',
   '📅 Friday the 13th. What do you think about it?',
   'Just no!',
-  'But but but... why?'
+  'But but but... why?',
+  'You definitely wanna break some hearts huh?',
+  "No! St.Valentine doesn't like the idea."
 ]
 
 export const REASONS_FOR_AFTERNOON = [
@@ -94,7 +99,8 @@ export const REASONS_FOR_WEEKEND = [
   'Drunk development is not a good idea!',
   'I see you deployed on Friday',
   'Told you that Monday would be a better idea!',
-  'There are 2^1000 other ideas.'
+  'There are 2^1000 other ideas.',
+  "I'd rather take the kids to the beach."
 ]
 
 export const REASONS_FOR_DAY_BEFORE_CHRISTMAS = [
@@ -117,5 +123,7 @@ export const REASONS_NEW_YEAR = [
   'Happy New Year! \n deploy the 2nd of january',
   "Aren't you hungover?",
   'Take another glass of champagne 🥂',
-  'Celebrate today, deploy tomorrow 🎇'
+  'Celebrate today, deploy tomorrow 🎇',
+  "Excuse me! This wasn't in your new year resolution.",
+  "Seriously? You got 364 days more and you chose today? 😒"
 ]
